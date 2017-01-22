@@ -1,0 +1,10 @@
+D:\TCP Chat\Server\bin\Debug\Server.exe.config
+D:\TCP Chat\Server\bin\Debug\Server.exe
+D:\TCP Chat\Server\bin\Debug\Server.pdb
+D:\TCP Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\TCP Chat\Server\obj\Debug\Server.Main.resources
+D:\TCP Chat\Server\obj\Debug\Server.PrivateChat.resources
+D:\TCP Chat\Server\obj\Debug\Server.Properties.Resources.resources
+D:\TCP Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\TCP Chat\Server\obj\Debug\Server.exe
+D:\TCP Chat\Server\obj\Debug\Server.pdb
